@@ -9,7 +9,7 @@ This code is my entry for the Kaggle competition here: https://www.kaggle.com/c/
 The code has:
  - splitDataset.py: some code for organizing the dataset
  - loadData.py: loading the data to PyTorch
- - myCNN: a model definition
+ - myCNN.py: a model definition
  - pipeline.py: the training code
  - generateTest.py: generating predictions to submit to Kaggle
 
